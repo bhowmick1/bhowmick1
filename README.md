@@ -1,13 +1,25 @@
 # Hi, I'm Bhowmick Kumar Pankaj 👋
 
-🎓 Final-year Computer Science & Engineering student at SRMIST
+🎓 Computer Science & Engineering Student @ SRMIST
 
-💻 Data Science | Machine Learning | Software Development
+💻 Data Science • Machine Learning • Software Development
 
-🧠 C++ | Python | Java | SQL
+I enjoy building projects, solving programming problems, and exploring new technologies.
 
-📌 Interested in building practical projects and solving problems through code.
+### Tech Stack
 
-### Connect with me
+C++ • Python • Java • SQL
+
+### Currently Working On
+
+DSA • Machine Learning • Software Development
+
+### Featured Projects
+
+🔹 Gesture to Text Translator  
+🔹 Credit Card Fraud Detection  
+🔹 Rockfall Hazard Prediction
+
+### Connect
 
 [LinkedIn](https://linkedin.com/in/bhowmickkumar)
